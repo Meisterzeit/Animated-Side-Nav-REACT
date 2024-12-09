@@ -1,0 +1,28 @@
+.content {
+    margin-left: 220px; 
+    padding: 40px; 
+    min-height: 100vh; 
+    background-color: #f4f4f9; 
+    color: #2c3e50; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+  }
+  
+  
+  .content h1 {
+    font-size: 2.5rem; 
+    margin-bottom: 20px; 
+    color: #34495e; 
+  }
+  
+
+  .content p {
+    font-size: 1.2rem; 
+    line-height: 1.6;
+    text-align: center; 
+    color: #7f8c8d; 
+    max-width: 600px; 
+  }
+  

@@ -1,0 +1,12 @@
+.task-item {
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #f0f0f0;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+  cursor: pointer;
+}
+
+.task-item:hover {
+  background: #e0f7fa;
+}
